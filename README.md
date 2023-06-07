@@ -33,7 +33,7 @@ Develop a webpage(minimum of 50 words) for each location and link it to the imag
         </h1>
         <h3 align="center">
         <font color="blue" face ="cursive">
-            Tejaswini G (212222230157)
+            Dinesh Karthick K.J (212222100011)
         </font>
             
         </h3>
@@ -186,15 +186,15 @@ Develop a webpage(minimum of 50 words) for each location and link it to the imag
 ```
 ## Output:
 ## CLIENT OUTPUT:
-![Screenshot (79)](https://user-images.githubusercontent.com/121222763/234481979-16428b25-ae01-4364-b5ab-2d51e8935dfd.png)
-![arakk](https://user-images.githubusercontent.com/121222763/234482188-d762a529-9e62-4b04-8b08-7559187c1701.png)
-![akm jun](https://user-images.githubusercontent.com/121222763/234482218-fc981524-bb03-45c9-87fe-4ecbfecc6c35.png)
-![busstand](https://user-images.githubusercontent.com/121222763/234482254-de4c9453-d155-449c-a7d2-70046d64f6e5.png)
-![jewll](https://user-images.githubusercontent.com/121222763/234482282-14470445-298b-40a6-b9b4-9379590bd06e.png)
-![sweet](https://user-images.githubusercontent.com/121222763/234482314-38ba9942-caf2-4ff0-992d-aafc50a86120.png)
+![map](https://github.com/Dineshkarthick27/places-around-me/assets/120552008/1aa3350b-a5a2-4b09-b4fc-d5cb0fd4d93f)
+![arakk](https://github.com/Dineshkarthick27/places-around-me/assets/120552008/f544b61b-3d95-46e8-bc5d-a60a57abee25)
+![arakk](https://github.com/Dineshkarthick27/places-around-me/assets/120552008/64a1ea44-aeae-4f1c-a9a1-829539af322f)
+![busstand](https://github.com/Dineshkarthick27/places-around-me/assets/120552008/b912898d-c753-4ee4-87db-67e9180e26b2)
+![jewll](https://github.com/Dineshkarthick27/places-around-me/assets/120552008/e1210c34-e649-4512-8133-9a58b35fb001)
+![sweet](https://github.com/Dineshkarthick27/places-around-me/assets/120552008/d9978350-e52b-47c3-aa2d-71d5c3868fa4)
 
 ## SERVER OUTPUT:
-![Screenshot (80)](https://user-images.githubusercontent.com/121222763/234482410-fedf59f3-f351-4d2e-add4-1ad4d6b7e9ad.png)
+![Screenshot (129)](https://github.com/Dineshkarthick27/places-around-me/assets/120552008/08da47eb-8fca-450d-aec3-e21c60c3dcbe)
 
 ## Result:
 Code is sucessfully verified.
